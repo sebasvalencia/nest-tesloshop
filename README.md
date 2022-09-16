@@ -5,11 +5,15 @@
 
 # Teslo API
 
-1. Configuration up the postgres database
+1. Clone project
+2. ```npm install```
+3. Clone ```.en.template``` and rename to ```.env```
+4. Change the values
+5. Configuration up the postgres database
 ```
 docker-compose up-d
 ```
-
+6. Up the project ```npm run start:dev```
 
 
 
