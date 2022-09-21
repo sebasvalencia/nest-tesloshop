@@ -6,6 +6,7 @@ export class Product {
   @PrimaryColumn('uuid')
   id: string;
 
+  // Comment for this text column 
   @Column('text', { unique: true })
   title: string;
 }
