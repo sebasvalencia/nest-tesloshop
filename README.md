@@ -17,4 +17,5 @@ docker-compose up-d
 
 
 
-
+install
+npm i class-validator class-transformer
