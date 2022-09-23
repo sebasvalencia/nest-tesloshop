@@ -19,3 +19,5 @@ docker-compose up-d
 
 install
 npm i class-validator class-transformer
+npm install -g uuid
+npm i @types/uuid
