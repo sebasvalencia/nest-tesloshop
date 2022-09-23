@@ -21,3 +21,4 @@ install
 npm i class-validator class-transformer
 npm install -g uuid
 npm i @types/uuid
+modify tsconfig to 2021
